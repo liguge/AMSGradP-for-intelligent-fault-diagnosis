@@ -5,7 +5,7 @@ Imporved AdamP called AMSGradP is suitable for intelligent fault diagnosis.
 ![image](https://user-images.githubusercontent.com/19371493/144706901-ce59398c-3b9d-4aee-b65e-69e94b0d6328.png)
 
 # If this project helps you, please cite:
-```python
+```html
 @article{ZHANG2022110242,  
 title = {Fault diagnosis for small samples based on attention mechanism},  
 journal = {Measurement},  
