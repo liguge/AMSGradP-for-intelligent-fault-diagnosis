@@ -5,7 +5,7 @@ Imporved AdamP called AMSGradP is suitable for intelligent fault diagnosis.
 ![image](https://user-images.githubusercontent.com/19371493/144706901-ce59398c-3b9d-4aee-b65e-69e94b0d6328.png)
 
 # If this project helps you, please cite:
-
+```python
 @article{ZHANG2022110242,  
 title = {Fault diagnosis for small samples based on attention mechanism},  
 journal = {Measurement},  
@@ -15,18 +15,18 @@ year = {2022},
 issn = {0263-2241},  
 doi = {https://doi.org/10.1016/j.measurement.2021.110242 },  
 url = {https://www.sciencedirect.com/science/article/pii/S0263224121011507},  
-author = {Xin Zhang and **Chao He** and Yanping Lu and Biao Chen and Le Zhu and Li Zhang}  
+author = {Xin Zhang and Chao He and Yanping Lu and Biao Chen and Le Zhu and Li Zhang}  
 }
-
+```
 ![image](https://user-images.githubusercontent.com/19371493/144707296-2731c87b-8469-4e2e-b0da-fa5edaca72be.png)
 
 # Reference
-
+```html
 @article{heo2020adamp,  
   title={AdamP: Slowing down the slowdown for momentum optimizers on scale-invariant weights},  
   author={Heo, Byeongho and Chun, Sanghyuk and Oh, Seong Joon and Han, Dongyoon and Yun, Sangdoo and Kim, Gyuwan and Uh, Youngjung and Ha, Jung-Woo},  
   journal={arXiv preprint arXiv:2006.08217},  
   year={2020}  
 }
-
+```
 
