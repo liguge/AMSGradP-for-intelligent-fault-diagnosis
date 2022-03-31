@@ -22,11 +22,25 @@ author = {Xin Zhang and Chao He and Yanping Lu and Biao Chen and Le Zhu and Li Z
 
 # Reference
 ```html
-@article{heo2020adamp,  
-  title={AdamP: Slowing down the slowdown for momentum optimizers on scale-invariant weights},  
-  author={Heo, Byeongho and Chun, Sanghyuk and Oh, Seong Joon and Han, Dongyoon and Yun, Sangdoo and Kim, Gyuwan and Uh, Youngjung and Ha, Jung-Woo},  
-  journal={arXiv preprint arXiv:2006.08217},  
-  year={2020}  
+@inproceedings{DBLP:conf/iclr/HeoCOHYKUH21,
+  author    = {Byeongho Heo and
+               Sanghyuk Chun and
+               Seong Joon Oh and
+               Dongyoon Han and
+               Sangdoo Yun and
+               Gyuwan Kim and
+               Youngjung Uh and
+               Jung{-}Woo Ha},
+  title     = {AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant
+               Weights},
+  booktitle = {9th International Conference on Learning Representations, {ICLR} 2021,
+               Virtual Event, Austria, May 3-7, 2021},
+  publisher = {OpenReview.net},
+  year      = {2021},
+  url       = {https://openreview.net/forum?id=Iz3zU3M316D},
+  timestamp = {Mon, 28 Jun 2021 09:04:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/iclr/HeoCOHYKUH21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
