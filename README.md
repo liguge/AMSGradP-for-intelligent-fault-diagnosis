@@ -2,6 +2,8 @@
 
 Imporved AdamP called AMSGradP is suitable for intelligent fault diagnosis.
 
+In this study, it is easy for small samples to converge to the local optimum. Unfortunately, the author has not given the improvement of more advanced AMSGrad. Inspired by this, the idea of Ref. [34] are introduced into AMSGrad called AMSGradP. In Appendix, Algorithm 1 outlines the pseudocode of AMSGradP.
+
 ![image](https://user-images.githubusercontent.com/19371493/144706901-ce59398c-3b9d-4aee-b65e-69e94b0d6328.png)
 
 # If this project helps you, please cite:
