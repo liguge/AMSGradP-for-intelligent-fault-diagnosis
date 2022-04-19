@@ -1,6 +1,8 @@
 # AMSGradP
+This is AdamP implementation of pytorch version of  [Fault diagnosis for small samples based on attention mechanism
+](https://www.sciencedirect.com/science/article/pii/S0263224121011507)
 
-Imporved AdamP called AMSGradP is suitable for intelligent fault diagnosis.
+Imporved [AdamP](https://openreview.net/forum?id=Iz3zU3M316D) called  [AMSGradP](https://www.sciencedirect.com/science/article/pii/S0263224121011507) is suitable for intelligent fault diagnosis.
 
 In this study, it is easy for small samples to converge to the local optimum. Unfortunately, the author has not given the improvement of more advanced AMSGrad. Inspired by this, the idea of Ref. [34] are introduced into AMSGrad called AMSGradP. In Appendix, Algorithm 1 outlines the pseudocode of AMSGradP.
 
