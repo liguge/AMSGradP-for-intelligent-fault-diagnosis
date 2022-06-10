@@ -2,7 +2,7 @@
 This is AdamP implementation of pytorch version of  [Fault diagnosis for small samples based on attention mechanism
 ](https://www.sciencedirect.com/science/article/pii/S0263224121011507)
 
-However, in fact, the title Fault diagnosis for small samples based on interpretable improved space-channel attention mechanism and improved regularization algorithms fits the research content of the paper better.
+**However, in fact, the title [Fault diagnosis for small samples based on interpretable improved space-channel attention mechanism and improved regularization algorithms](https://www.sciencedirect.com/science/article/pii/S0263224121011507) fits the research content of the paper better.**
 
 Imporved [AdamP](https://openreview.net/forum?id=Iz3zU3M316D) called  [AMSGradP](https://www.sciencedirect.com/science/article/pii/S0263224121011507) is suitable for intelligent fault diagnosis.
 
