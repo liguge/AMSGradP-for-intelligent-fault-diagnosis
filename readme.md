@@ -1,7 +1,3 @@
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-
 # AMSGradP
 This is AMSGradP (Backpropagation Algorithm) implementation of pytorch version of  [Fault diagnosis for small samples based on attention mechanism
 ](https://www.sciencedirect.com/science/article/pii/S0263224121011507)
